@@ -1,4 +1,10 @@
+
+
+I am Hero 
+
 hello Dear
 
+Tasks: Create a ubutu machine over docker run that machine interactively so that you explore ubantu 
+       and install Java and Python
 data3
 data4
